@@ -1,0 +1,107 @@
+1. Reverse a Number
+Problem: Given an integer n, reverse its digits.
+
+Example: Input: 12345 → Output: 54321
+
+Concepts: Loops, Modulo, Division
+
+2. Check Palindrome (Number/String)
+Problem: Check if the given number or string is a palindrome.
+
+Example: Input: 121 → Output: Yes | Input: "madam" → Output: Yes
+
+Concepts: Strings, Loops, Two Pointers
+
+3. Fibonacci Series up to N terms
+Problem: Print the Fibonacci sequence up to n terms.
+
+Example: Input: 5 → Output: 0 1 1 2 3
+
+Concepts: Loops, Recursion (optional)
+
+4. Find the Largest and Smallest Element in Array
+Problem: Given an array, find the maximum and minimum element.
+
+Example: Input: [5, 2, 9, 1, 6] → Output: Max=9, Min=1
+
+Concepts: Arrays, Loops, Conditionals
+
+5. Count Frequency of Characters in a String
+Problem: Given a string, count the frequency of each character.
+
+Example: Input: "apple" → Output: a:1, p:2, l:1, e:1
+
+Concepts: Maps/Arrays, Strings, Loops
+
+6. Sum of Digits of a Number
+Problem: Given a number n, find the sum of its digits.
+
+Example: Input: 1234 → Output: 10
+
+Concepts: Loops, Modulo, Division
+
+7. Sort an Array (Bubble Sort / Selection Sort)
+Problem: Implement Bubble Sort or Selection Sort.
+
+Example: Input: [5, 2, 9, 1] → Output: [1, 2, 5, 9]
+
+Concepts: Arrays, Sorting, Nested Loops
+
+8. Find Second Largest Element in Array
+Problem: Given an array, find the second largest element.
+
+Example: Input: [10, 5, 20, 8] → Output: 10
+
+Concepts: Arrays, Loops
+
+9. Count Vowels and Consonants in a String
+Problem: Given a string, count the number of vowels and consonants.
+
+Example: Input: "Hello" → Output: Vowels=2, Consonants=3
+
+Concepts: Strings, Loops, Conditionals
+
+10. Check Prime Number
+Problem: Check whether a given number is prime or not.
+
+Example: Input: 29 → Output: Prime
+
+Concepts: Loops, Conditionals, Optimization (√n)
+
+11. Find GCD (Greatest Common Divisor)
+Problem: Find GCD of two numbers using Euclidean Algorithm.
+
+Example: Input: 54, 24 → Output: 6
+
+Concepts: Loops, Recursion (optional)
+
+12. Pattern Printing Problems
+Example:
+
+Input: 5
+Output:
+*
+* *
+* * *
+* * * *
+* * * * *
+Concepts: Nested Loops
+
+13. Merge Two Sorted Arrays
+Problem: Merge two sorted arrays into a single sorted array.
+
+Concepts: Arrays, Two Pointers
+
+14. Rotate Array by K Positions
+Problem: Rotate the given array by K positions to the right.
+
+Example: Input: [1,2,3,4,5], K=2 → Output: [4,5,1,2,3]
+
+Concepts: Arrays, Modulo, Slicing logic
+
+15. Find Missing Number in an Array (1 to N)
+Problem: Given an array of size N-1 containing numbers from 1 to N, find the missing number.
+
+Example: Input: [1, 2, 4, 5, 6] → Output: 3
+
+Concepts: Arrays, Sum formula or XOR method
